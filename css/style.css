@@ -485,11 +485,7 @@ form .send-btn:hover {
     }
     .home-img img{
         max-width: 100%;
-<<<<<<< HEAD
         width: 400px;
-=======
-        width: 290px;
->>>>>>> a069915fce008758b78fc80dd72097022acd1f8a
         height: auto;
         
     }
@@ -517,8 +513,13 @@ form .send-btn:hover {
         text-align: center;
     }
 
+    .resume-content {
+        flex-direction: column;
+        display: flex;
+    }
+
     .resume-content .box {
-        width: 390px;
+        width: 500px;
         text-align: center;
     }
 }
@@ -563,11 +564,7 @@ form .send-btn:hover {
     }
     .home-img img{
         max-width: 100%;
-<<<<<<< HEAD
         width: 400px;
-=======
-        width: 290px;
->>>>>>> a069915fce008758b78fc80dd72097022acd1f8a
         height: auto;
         
     }
@@ -670,7 +667,7 @@ form .send-btn:hover {
     }
 
     .resume-content .box {
-        width: 550px;
+        width: 500px;
     }
 }
 
@@ -838,7 +835,7 @@ form .send-btn:hover {
     }
 }
 
-@media (max-width: 320px){
+@media (max-width: 280px){
     #menu-icon{
         display: block;
     }
@@ -909,7 +906,7 @@ form .send-btn:hover {
     }
 
     .services-content .row{
-        width: 290px;
+        width: 230px;
     }
 
     .resume-content {
@@ -918,6 +915,6 @@ form .send-btn:hover {
     }
 
     .resume-content .box {
-        width: 290px;
+        width: 230px;
     }
 }
