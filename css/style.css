@@ -485,7 +485,11 @@ form .send-btn:hover {
     }
     .home-img img{
         max-width: 100%;
+<<<<<<< HEAD
         width: 400px;
+=======
+        width: 290px;
+>>>>>>> a069915fce008758b78fc80dd72097022acd1f8a
         height: auto;
         
     }
@@ -559,7 +563,11 @@ form .send-btn:hover {
     }
     .home-img img{
         max-width: 100%;
+<<<<<<< HEAD
         width: 400px;
+=======
+        width: 290px;
+>>>>>>> a069915fce008758b78fc80dd72097022acd1f8a
         height: auto;
         
     }
